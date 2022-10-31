@@ -25,4 +25,10 @@ Visual comparison results of two modalities are disturbed.
 ![可视化2](https://user-images.githubusercontent.com/101792089/159106001-be104f6b-f0d6-4cc8-b928-83b9e9b1adb7.png)
 
 ## Download the dataset
-The dataset is provided for non-commercial use only. By downloading the dataset, you accept the license agreement. Please send the signed license agreement to vdt2048@163.com for a download link.
+The dataset and code are available at:https://pan.baidu.com/s/1JyFBtjlJGf4GE2zeciN1wQ?pwd=bipy 
+
+## Paper
+https://ieeexplore.ieee.org/document/9931143/
+
+## Citation
+K. Song, J. Wang, Y. Bao, L. Huang and Y. Yan, "A Novel Visible-Depth-Thermal Image Dataset of Salient Object Detection for Robotic Visual Perception," in IEEE/ASME Transactions on Mechatronics, 2022, doi: 10.1109/TMECH.2022.3215909.
