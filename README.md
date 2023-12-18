@@ -30,6 +30,9 @@ The dataset and code are available at:https://pan.baidu.com/s/1JyFBtjlJGf4GE2zec
 ## Paper
 https://ieeexplore.ieee.org/document/9931143/
 
+[2023-A Novel Visible-Depth-Thermal Image Dataset of Salient Object Detection for Robotic Visual Perception.pdf](https://github.com/VDT-2048/VDT-Dataset/files/13700200/2023-A.Novel.Visible-Depth-Thermal.Image.Dataset.of.Salient.Object.Detection.for.Robotic.Visual.Perception.pdf)
+
+
 ## Citation
 K. Song, J. Wang, Y. Bao, L. Huang and Y. Yan, "A Novel Visible-Depth-Thermal Image Dataset of Salient Object Detection for Robotic Visual Perception," in IEEE/ASME Transactions on Mechatronics, vol. 28, no. 3, pp. 1558-1569, June 2023, doi: 10.1109/TMECH.2022.3215909.
 
