@@ -45,6 +45,7 @@ https://ieeexplore.ieee.org/abstract/document/10171982
 
 [3] Quality-Aware Selective Fusion Network for V-D-T Salient Object Detection[J]. IEEE Transactions on Image Processing, vol. 33, pp. 3212-3226, 2024
 https://ieeexplore.ieee.org/abstract/document/10516304
+
 https://github.com/Lx-Bao/QSFNet
 
 # Related Work of RGB-T Salient Object Detection
